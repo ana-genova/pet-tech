@@ -1,4 +1,4 @@
-package br.com.fiap.pet_tech.pet_tech;
+package br.com.fiap.pet_tech.pet_tech.controller.exception;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;

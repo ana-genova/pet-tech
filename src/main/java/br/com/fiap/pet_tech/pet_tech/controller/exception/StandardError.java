@@ -1,4 +1,4 @@
-package br.com.fiap.pet_tech.pet_tech;
+package br.com.fiap.pet_tech.pet_tech.controller.exception;
 
 import java.time.Instant;
 
